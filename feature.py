@@ -11,3 +11,5 @@ print(calculate(84793758457, 398758937459475))
 
 def choose_dog():
     return random
+
+print(choose_dog())
